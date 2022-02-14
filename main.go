@@ -18,7 +18,7 @@ func main() {
 
 	fmt.Printf("%5s", "X")
 	for i := 0; i <= max; i++ {
-		fmt.Printf("%5d", i)
+		fmt.Printf("%5d\n", i)
 	}
 
 }
